@@ -7,7 +7,7 @@
 ## 🌐 Live Demo
 
 **Application URL:**
-[ADD DEPLOYMENT URL HERE]
+[(https://hoblix-ai.vercel.app/)]
 
 ---
 
